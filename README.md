@@ -1,4 +1,5 @@
 # Pocket2Plate
+![Logo](images/logo.png)
 
 Students and young adults often have difficulties in finding what to make based on different ingredients they have. This application called Pocket2Plate aims to help people discover various recipes they can make based on stand-alone ingredients they have already. The app allows users to input their ingredients and we provide them with delicious food and drink recipes that best fit their inputs and preferences. The user can also search for a recipe based on certain ingredients with their own custom account. 
 
@@ -11,3 +12,13 @@ For the backend, the app utlizes Firebase for loging in and user authentication.
 ## Walkthrough 
 
 Start by creating an account and once done login. Once you enter the app, there are all the food recipes, which are being displayed with the title and a photo. Let’s say you're interested in the recipe for Garlicky kale, you just click it and it provides you with more details. There is also a tab for all the drinks, which is shown. There is also a search bar where you can search for specific recipes or indregedenits and it will find you an assortment of recipes. Finally once you have finished using the recipe you can go to the profile tab and logout.
+
+## Images 
+
+![register](images/register.png)
+![login](images/login.png)
+![home](images/home.png)
+![drinks](images/drinks.png)
+![search](images/search.png)
+
+
